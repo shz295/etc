@@ -1,8 +1,0 @@
-path: D:\proj\yolo_intro\bears
-train: images
-val: images
-
-names:
-    0: brown
-    1: polar
-    2: black
