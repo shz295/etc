@@ -1,0 +1,8 @@
+path: /home/proj/yolobears
+train: images
+val: images
+
+names:
+    0: brown
+    1: polar
+    2: black
